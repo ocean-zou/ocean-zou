@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello World! 👋
 
-<!--
-**ocean-zou/ocean-zou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ocean Zou. I'm currently a FullStack Web Developer at Data2App pty ltd.
 
-Here are some ideas to get you started:
+🌐 **Favorite Technologies**
+- ReactJs
+- NodeJs
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **My Favorite Programming Languages**
+- JavaScript/Typescript
+- Python
+- Bash
+
+🔗 **Contact**
+- 📧 [My Email](mailto:zouhaiyang2005@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/oceanzou)
+
+📚 **My Projects**
+- [Project 1](http://portfolio.oceanzou.click/)
+- [Project 2](https://weatherapp.oceanzou.click/)
+- [Project 3](https://messagebox.oceanzou.click/)
+- see below
