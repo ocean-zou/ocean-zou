@@ -17,7 +17,4 @@ My name is Ocean Zou. I'm currently a FullStack Web Developer at Data2App pty lt
 - [LinkedIn](https://www.linkedin.com/in/oceanzou)
 
 📚 **My Projects**
-- [Project 1](http://portfolio.oceanzou.click/)
-- [Project 2](https://weatherapp.oceanzou.click/)
-- [Project 3](https://messagebox.oceanzou.click/)
 - see below
